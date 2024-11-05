@@ -1,1 +1,1 @@
-C:\Users\Oxbey\Desktop\projet\IK
+C:\Users\Oxbey\Desktop\projet\inverse-kinematics
